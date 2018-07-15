@@ -1,1 +1,1 @@
-worker: python notregan.py
+worker: python NotRegan-s-Hub-Bot.py
